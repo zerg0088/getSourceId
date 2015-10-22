@@ -13,7 +13,7 @@
   "content_script": [ {
     "js": [ "content-script.js" ],
     "all_frames": true,
-    "matches": ["*://112.108.40.152/*"]
+    "matches": ["*://203.246.112.144/*"]
   }],
   "icons": {
     "16": "logo16.png",
